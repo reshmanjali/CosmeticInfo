@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/id_lin_brand_products"
+    tools:context=".BrandProducts">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/watch_a_make_up_tutorial"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/id_youtube_tutorial"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/mTop_btn_brndPro"
+        />
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:id="@+id/id_rec_list_products"
+        android:padding="@dimen/recView_brndPro">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

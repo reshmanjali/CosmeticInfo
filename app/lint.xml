@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconColors">
+        <ignore path="src/main/res/mipmap-hdpi/fav.png" />
+        <ignore path="src/main/res/mipmap-mdpi/fav.png" />
+        <ignore path="src/main/res/mipmap-xhdpi/fav.png" />
+        <ignore path="src/main/res/mipmap-xxhdpi/fav.png" />
+        <ignore path="src/main/res/mipmap-xxxhdpi/fav.png" />
+    </issue>
+</lint>

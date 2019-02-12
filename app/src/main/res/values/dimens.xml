@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">6dp</dimen>
+    <dimen name="mTop_btn_brndPro">4dp</dimen>
+    <dimen name="recView_brndPro">4dp</dimen>
+    <dimen name="lin_detail">8dp</dimen>
+    <dimen name="lin2_detail">12dp</dimen>
+    <dimen name="btn_detail">20dp</dimen>
+    <dimen name="name_tv_detail">22sp</dimen>
+    <dimen name="desc_tv_detail">18sp</dimen>
+    <dimen name="desc_mTop_detail">8dp</dimen>
+    <dimen name="descData_tv_detail">18sp</dimen>
+    <dimen name="pad_tv_detail">16dp</dimen>
+    <dimen name="crnr_card_eachPro">3dp</dimen>
+    <dimen name="mBot_card_echPro">8dp</dimen>
+    <dimen name="card_ele_eachPro">1dp</dimen>
+    <dimen name="tv_size_eachPro">14sp</dimen>
+    <dimen name="pad_tv_echPro">4dp</dimen>
+    <dimen name="card_ht_echPro">40dp</dimen>
+    <dimen name="mrgn_my_wid">3dp</dimen>
+    <dimen name="tv_my_wid">12sp</dimen>
+    <dimen name="minHt_wid_info">200dp</dimen>
+    <dimen name="minWdt_wid_info">250dp</dimen>
+
+</resources>

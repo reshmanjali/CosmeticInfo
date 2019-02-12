@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CosmeticInfo</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="watch_a_make_up_tutorial">watch a make up tutorial</string>
+    <string name="maybelline_main">Maybelline</string>
+    <string name="revlon_main">Revlon</string>
+    <string name="covergirl_main">CoverGirl</string>
+    <string name="milani_main">Milani</string>
+    <string name="productimage_cDes_detail">productImage</string>
+    <string name="add_as_fav_btn_detail">add as fav</string>
+    <string name="description_tv_detail">Description</string>
+    <string name="favourites_tit_fmenu">Favourites</string>
+    <string name="lodng_snack_brndPro">Loading…Please wait</string>
+    <string name="rfav">Remove from Fav</string>
+    <string name="afav">Add as Fav</string>
+    <string name="rrfav">Added as fav</string>
+    <string name="rrrfav">Remove from fav</string>
+    <string name="aafav">Removed from fav</string>
+    <string name="aaaafav">Add as Fav</string>
+    <string name="you">in you tube activity</string>
+    <string name="no">No favourites</string>
+    <string name="oo">Oops</string>
+    <string name="off">You are offline.You can just see your favourites</string>
+</resources>
